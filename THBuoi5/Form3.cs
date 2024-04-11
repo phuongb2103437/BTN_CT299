@@ -31,7 +31,7 @@ namespace THBuoi5
 
         private void Form3_Load(object sender, EventArgs e)
         {
-
+            string masv;
         }
 
         private void chấmCôngToolStripMenuItem_Click(object sender, EventArgs e)
