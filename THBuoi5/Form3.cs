@@ -23,7 +23,7 @@ namespace THBuoi5
             form1.Show();
             this.Hide(); // ẩn form hiện tại
         }
-
+t
         private void qLNhânViênToolStripMenuItem1_Click(object sender, EventArgs e)
         {
 
@@ -32,6 +32,7 @@ namespace THBuoi5
         private void Form3_Load(object sender, EventArgs e)
         {
             string masv;
+            string Tuyet;
         }
 
         private void chấmCôngToolStripMenuItem_Click(object sender, EventArgs e)
